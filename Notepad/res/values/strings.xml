@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Note</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">Title</string>
+    <string name="action_new">New</string>
+    <string name="action_save">Save</string>
+    <string name="action_saveas">Saveas</string>
+    <string name="action_delete">Delete</string>
+    <string name="Font_Name">Font Name</string>
+    <string name="Font_Size">Font Size</string>
+    <string name="BGCOLOR">Background Color</string>
+    <string name="FGCOLOR">Text Color</string>
+    <string name="action_exit">Exit</string>
+    <string name="write_text_here">Write Text Here</string>
+    <string name="list_empty">No Notes Saved</string>
+    <string name="button_new">New Note</string>
+    <string name="OK">Save</string>
+    <string name="Cancel">Cancel</string>
+    <string name="title_activity_save">Save</string>
+    <string name="action_list">All files</string>
+    <string name="action_recent">Recent files</string>
+    <string name="title_activity_list1">MainActivity</string>
+    <string name="title_activity_list">MainActivity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string-array name="font_array">
+        <item>NORMAL</item>
+        <item>SERIF</item>
+        <item>MONOSPACE</item>
+    </string-array>
+     <string-array name="size_array">
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>30</item>
+        <item>32</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="color_array">
+        <item>RED</item>
+        <item>GRAY</item>
+        <item>WHITE</item>
+        <item>BLACK</item>
+        <item>GREEN</item>
+        <item>YELLOW</item>
+    </string-array>
+
+</resources>

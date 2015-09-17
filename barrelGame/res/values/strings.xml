@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Barrel Race</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+<string name="action_list">High Scores</string>
+<string name="list_empty"></string>
+    <color name="white">#FFFFFF</color>
+
+    <string name="chronometer_initial_format">Initial format</string>
+    <string name="title_activity_save">Save</string>
+    <string name="title_activity_listview">Listview</string>
+
+</resources>
